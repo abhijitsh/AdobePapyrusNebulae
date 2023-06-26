@@ -5,7 +5,7 @@ This project uses PDF Extract API by Adobe to read transaction bills given in .p
 # How to use it?
 
 1: Install dependencies by running the following commands:
-npm install @adobe/pdfservices-node-sdk
+npm install @adobe/pdfservices-node-sdk;   
 npm install adm-zip
 
 2: Input the Test Data path location and the extracted zip files path location inside extract.js as the values of constants- Input and Zip_File, respectively. This algorithm would extract data from the PDFs into zip files and store them in the assigned path location as zip files.
