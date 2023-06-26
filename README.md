@@ -4,7 +4,7 @@ This project uses PDF Extract API by Adobe to read transaction bills given in .p
 
 # How to use it?
 
-1: Install dependencies by running the following commands:
+1: Install dependencies by running the following commands:                                                                
 npm install @adobe/pdfservices-node-sdk;   
 npm install adm-zip
 
